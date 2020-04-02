@@ -1,0 +1,103 @@
+body,html{
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.same{
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -24px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+h1{
+    padding-top: 45px;
+}
+
+.a{
+    background-image: url("../img/bg-img-7.webp");
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: black;
+}
+.b{
+    background-image: url("../img/bg-img-1.jpg");
+    color: white;
+    text-align: right;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.c{
+    background-image: url("../img/bg-img4.webp");
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.d{
+    background-image: url("../img/bg-img-5.webp");
+    padding-left: 30px;
+    padding-right: 30px;
+    color: rgb(80, 78, 78);
+    font-size: large;
+    
+}
+#v{color: peru;}
+.d h1{text-align: center; color: black;}
+.e{
+    background-image: url("../img/bg-img-6.webp");
+    text-align: right;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.e a{text-decoration: none; 
+    padding: 10px; 
+    background-color: black;
+    color: white;
+}
+.e a:hover{ color: black; background-color: white;}
+.f{
+    background-image: url("../img/bg-img-2.webp");
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+}
+.f h1{text-align: center; color: black;}
+#u{text-align: center; color: black;}
+.g{
+    background-image: url("../img/img-1.webp");
+    text-align: right;
+    padding-right: 30px;
+    padding-left: 30px;
+    color: white;
+    font-size: large;
+}
+.g a{
+    text-decoration: none;
+    color: white;}
+.g a:hover{color: black;}
+.h{
+    background-image: url("../img/bg-img-8.webp");
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: -10px;
+}
+#t{text-align: center; color: ;}
+.h h1{
+    text-align: center; color: black;
+}
+#z{color: rgba(255, 136, 0, 0.473);}
+#y{color: black;}
+#x{color: rgb(0, 183, 255);}
+#w{color: rgb(64, 62, 65);}
+
+footer{
+    background-color: saddlebrown;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    color: white;
+}
